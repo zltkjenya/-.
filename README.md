@@ -1,4 +1,4 @@
-<!doctype html>
+
 <html lang="en">
 <head>
 <meta charset="utf-8" />
@@ -83,7 +83,6 @@ pre{ background:#0f172a; color:#e6eef8; padding:12px; border-radius:8px; overflo
 </div>
 
 <script>
-document.getElementById('now').textContent = new Date().toLocaleString();
 document.getElementById('greetBtn').addEventListener('click', function(){
 const out = document.getElementById('output');
 out.innerHTML = '<strong>Hello!</strong> Nice to meet you. \n' +
