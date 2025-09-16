@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="utf-8" />
@@ -98,3 +98,5 @@ pre.style.display = pre.style.display === 'none' ? 'block' : 'none';
 });
 </script>
 
+</body>
+</html>
