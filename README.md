@@ -85,8 +85,6 @@ pre{ background:#0f172a; color:#e6eef8; padding:12px; border-radius:8px; overflo
 
 
 </div>
-</body>
-</html>
 <script>
 document.getElementById('greetBtn').addEventListener('click', function(){
 const out = document.getElementById('output');
