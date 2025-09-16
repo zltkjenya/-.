@@ -27,6 +27,8 @@ pre{ background:#0f172a; color:#e6eef8; padding:12px; border-radius:8px; overflo
       <img src="https://www.volynnews.com/files/news/2023/07-03/364028/photo_2023-07-02_23-54-39.jpg"
         alt="Збірна України з футболу"
         style="width:350px; border-radius:12px; box-shadow:0 10px 20px rgba(0,0,0,0,15)">
+    </body>
+      <body>
 <div class="container">
 <header>
 <h1>Збірна України з футболу</h1>
